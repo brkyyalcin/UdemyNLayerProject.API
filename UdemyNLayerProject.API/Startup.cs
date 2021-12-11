@@ -10,9 +10,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UdemyNLayerProject.Core.Repositories;
+using UdemyNLayerProject.Core.Services;
 using UdemyNLayerProject.Core.UnitOfWorks;
 using UdemyNLayerProject.Data;
+using UdemyNLayerProject.Data.Repositories;
 using UdemyNLayerProject.Data.UnitOfWorks;
+using UdemyNLayerProject.Service.Services;
+using AutoMapper;
 
 namespace UdemyNLayerProject.API
 {
@@ -28,6 +33,14 @@ namespace UdemyNLayerProject.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(Startup));
+
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddScoped(typeof(IService<>),typeof(Service<>));
+            services.AddScoped<ICategoryService,CategoryService>();
+            services.AddScoped<IProductService,ProductService>();
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             services.AddDbContext<AppDbContext>(options =>
             {
@@ -37,7 +50,7 @@ namespace UdemyNLayerProject.API
                 });
             });
 
-            services.AddScoped<IUnitOfWork, UnitOfWork>();
+          
 
 
             services.AddControllers();

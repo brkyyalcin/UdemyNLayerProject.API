@@ -43,3 +43,5 @@ C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerPr
 C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.API\obj\Debug\netcoreapp3.1\UdemyNLayerProject.API.dll
 C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.API\obj\Debug\netcoreapp3.1\UdemyNLayerProject.API.pdb
 C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.API\obj\Debug\netcoreapp3.1\UdemyNLayerProject.API.genruntimeconfig.cache
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

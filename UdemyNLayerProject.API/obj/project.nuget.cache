@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "42XrR3+z4Weja9fZTkwxCz+41LCy6GuUdI2GvLamhKnnkAPoXtGbK1TUI+tINlv5udzaDJ53rHSqHoZ3ImPuoA==",
+  "dgSpecHash": "5BP5tqpmVAOm+V7Bv3b00EbU6iXMOqW70fXGVNkzAjCh6rSEgnUzndAUJR9ggMD3aqdoRc26+IVSaBcNbP+rEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\source\\repos\\UdemyNLayerProject.API\\UdemyNLayerProject.API\\UdemyNLayerProject.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -28,6 +30,7 @@
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\brkyy.LAPTOP-3S14NNTU\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
