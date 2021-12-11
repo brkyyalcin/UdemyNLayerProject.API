@@ -1,0 +1,16 @@
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.deps.json
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.json
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.dev.json
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.AssemblyReference.cache
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfoInputs.cache
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfo.cs
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CopyComplete
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\brkyy.LAPTOP-3S14NNTU\source\repos\UdemyNLayerProject.API\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.genruntimeconfig.cache

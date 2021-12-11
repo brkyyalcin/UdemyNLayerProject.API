@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4ace895-f680-4b59-b55e-ece692d60278": {
+      "ProjectGuid": "d4ace895-f680-4b59-b55e-ece692d60278",
+      "DisplayName": "UdemyNLayerProject.API",
+      "ColorIndex": 0
+    },
+    "f4733f5e-b8cd-44bf-a4c4-92d7e6640454": {
+      "ProjectGuid": "f4733f5e-b8cd-44bf-a4c4-92d7e6640454",
+      "DisplayName": "UdemyNLayerProject.Core",
+      "ColorIndex": 1
+    },
+    "6da4bd4a-b8d3-4383-81b8-0002a1243a04": {
+      "ProjectGuid": "6da4bd4a-b8d3-4383-81b8-0002a1243a04",
+      "DisplayName": "UdemyNLayerProject.Data",
+      "ColorIndex": 2
+    },
+    "7419cf98-8569-4d13-8171-dd4fcefb3859": {
+      "ProjectGuid": "7419cf98-8569-4d13-8171-dd4fcefb3859",
+      "DisplayName": "UdemyNLayerProject.Service",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
