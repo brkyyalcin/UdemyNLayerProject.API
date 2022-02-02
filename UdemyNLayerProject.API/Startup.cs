@@ -18,6 +18,7 @@ using UdemyNLayerProject.Data.Repositories;
 using UdemyNLayerProject.Data.UnitOfWorks;
 using UdemyNLayerProject.Service.Services;
 using AutoMapper;
+using UdemyNLayerProject.API.Filters;
 
 namespace UdemyNLayerProject.API
 {
@@ -34,6 +35,7 @@ namespace UdemyNLayerProject.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAutoMapper(typeof(Startup));
+            services.AddScoped<NotFoundFilter>();
 
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped(typeof(IService<>),typeof(Service<>));
@@ -54,6 +56,11 @@ namespace UdemyNLayerProject.API
 
 
             services.AddControllers();
+
+            services.Configure<ApiBehaviorOptions>(options =>
+            {
+                options.SuppressModelStateInvalidFilter = true;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
